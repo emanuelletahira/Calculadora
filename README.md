@@ -1,4 +1,4 @@
 **🧮 Calculadora Online**
 
 🚀  **Acesse o projeto online aqui:**  
-👉 (https://emanuelletahira.github.io/Calculadora/)
+👉 (https://emanuelletahira.github.io/Calculadora/calculadora.html)
